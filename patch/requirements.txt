@@ -1,0 +1,5 @@
+# Dependencies for patch_sbie.py
+# Install into a venv, e.g.:
+#   uv venv .venv
+#   uv pip install --python .venv/bin/python -r requirements.txt
+pefile==2024.8.26
